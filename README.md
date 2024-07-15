@@ -49,6 +49,6 @@ E.g.
 
 1) **TV Comdies** in **India** Which had peaked interst near to TV dramas.
 
-2)**Crime TV Shows** in **US**, which had a consist releases before fall.
+2) **Crime TV Shows** in **US**, which had a consist releases before fall.
 
 3) **Romantic TV show** in **Japan** which lost traction in last two years.
