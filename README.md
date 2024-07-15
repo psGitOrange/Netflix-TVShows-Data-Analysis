@@ -1,5 +1,3 @@
-# Netflix-TVShows-Data-Analysis
-
 # EDA: Netflix data insights 2024
 ### **About NETFLIX**
 <img src="https://help.nflxext.com/0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png" alt="netflix_img" width="1280" height="458">
@@ -10,26 +8,6 @@
 **Business problem statement:**
 
 `Explore` the data and derive `insights` to assist Netflix in determining which **types of shows or movies** to produce and strategies to expand their **business in various countries**.
-
-## Recomendations
-To grow business we need to follow the trend:
-
-Try bringing **back the top** cast and direct for the particular genre to grow business
-
-The most popular Times to release the content is **June, July and December**.
-
-Releasing TV shows on **friday** gives the audience an ample time to watch it over the weekend
-
-What usualy works is, try backing the **lost trends** when the current ones are falls. To **recycle** the whole trend as audience losses interest in watching the same genres and craves something new.
-
-E.g.
-
-1) **TV Comdies** in **India** Which had peaked interst near to TV dramas.
-
-2)**Crime TV Shows** in **US**, which had a consist releases before fall.
-
-3) **Romantic TV show** in **Japan** which lost traction in last two years.
-
 
 ## Business Insights
 
@@ -55,3 +33,22 @@ E.g.
 6) **Popular Categories**
   - **TV drama** is the highest watched category, followed by TV comedy, British TV shows, and kid's TV.
   - In India, TV drama is highly watched, similar to the United States, which also has **TV comedies** closing in second. **Anime series** types are the most sought-after content in Japan.
+
+## Recomendations
+To grow business we need to follow the trend:
+
+Try bringing **back the top** cast and direct for the particular genre to grow business
+
+The most popular Times to release the content is **June, July and December**.
+
+Releasing TV shows on **friday** gives the audience an ample time to watch it over the weekend
+
+What usualy works is, try backing the **lost trends** when the current ones are falls. To **recycle** the whole trend as audience losses interest in watching the same genres and craves something new.
+
+E.g.
+
+1) **TV Comdies** in **India** Which had peaked interst near to TV dramas.
+
+2)**Crime TV Shows** in **US**, which had a consist releases before fall.
+
+3) **Romantic TV show** in **Japan** which lost traction in last two years.
